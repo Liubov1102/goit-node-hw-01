@@ -7,4 +7,4 @@ add - https://monosnap.com/file/U0W7QR4N1zgRtY4UTLEErGFoweeFf3
 
 remove - https://monosnap.com/file/oSjcdvdGgtPmoKjwPRGLWPMFFk5CpK
 
-![renome](https://monosnap.com/image/oSjcdvdGgtPmoKjwPRGLWPMFFk5CpK)
+[remove](https://monosnap.com/image/oSjcdvdGgtPmoKjwPRGLWPMFFk5CpK)
