@@ -9,4 +9,3 @@
 
 [remove](https://monosnap.com/file/oSjcdvdGgtPmoKjwPRGLWPMFFk5CpK)
 
-[remove](https://monosnap.com/image/oSjcdvdGgtPmoKjwPRGLWPMFFk5CpK)
